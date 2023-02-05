@@ -8,7 +8,10 @@ using UnityEngine;
 //add crouch disable collider
 //add floor check
 //add ceiling check
+//add wall check
 //add onLandEvent
+//add onJumpEvent
+//add onCrouchEvent
 
 //future
 //add wall check
